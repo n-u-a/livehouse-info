@@ -1,0 +1,902 @@
+[
+  {
+    "id": "aoen-2026-output",
+    "venueId": "output",
+    "venueName": "Output",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-04-27",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-grindhouse",
+    "venueId": "grindhouse",
+    "venueName": "club GRINDHOUSE",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-04-29",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-takamatsu-monster",
+    "venueId": "takamatsu-monster",
+    "venueName": "高松MONSTER",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-04-30",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-wstudio-red",
+    "venueId": "wstudio-red",
+    "venueName": "松山W studio RED",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-02",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-caravan-sary",
+    "venueId": "caravan-sary",
+    "venueName": "CARAVAN SARY",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-03",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-eight-hall",
+    "venueId": "eight-hall",
+    "venueName": "金沢EIGHT HALL",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-07",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-fukui-chop",
+    "venueId": "fukui-chop",
+    "venueName": "福井CHOP",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-09",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-mairo",
+    "venueId": "mairo",
+    "venueName": "富山MAIRO",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-10",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-nagano-junkbox",
+    "venueId": "nagano-junkbox",
+    "venueName": "長野CLUB JUNK BOX",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-13",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-golden-pigs-red",
+    "venueId": "golden-pigs-red",
+    "venueName": "新潟GOLDEN PIGS RED STAGE",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-14",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-kumamoto-b9-v1",
+    "venueId": "kumamoto-b9-v1",
+    "venueName": "熊本B.9 V1",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-17",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-caparvo",
+    "venueId": "caparvo",
+    "venueName": "鹿児島CAPARVOホール",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-18",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-lazarus",
+    "venueId": "lazarus",
+    "venueName": "LAZARUS",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-19",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-drum-be0",
+    "venueId": "drum-be0",
+    "venueName": "DRUM Be-0",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-21",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-drum-logos",
+    "venueId": "drum-logos",
+    "venueName": "DRUM LOGOS",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-23",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-saga-geils",
+    "venueId": "saga-geils",
+    "venueName": "佐賀GEILS",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-26",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-drum-be7",
+    "venueId": "drum-be7",
+    "venueName": "DRUM Be-7",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-05-27",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-club-swindle",
+    "venueId": "club-swindle",
+    "venueName": "秋田クラブスウィンドル",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-06-10",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-aomori-quarter",
+    "venueId": "aomori-quarter",
+    "venueName": "青森Quarter",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-06-11",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-change-wave",
+    "venueId": "change-wave",
+    "venueName": "盛岡Club Change WAVE",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-06-15",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-rensa",
+    "venueId": "rensa",
+    "venueName": "仙台Rensa",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-06-16",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-hipshot-japan",
+    "venueId": "hipshot-japan",
+    "venueName": "郡山hip shot Japan",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-06-18",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-showa-session",
+    "venueId": "showa-session",
+    "venueName": "山形ミュージック昭和Session",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-06-19",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-jammers",
+    "venueId": "jammers",
+    "venueName": "CLUB Jammers",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-09-06",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-kofu-conviction",
+    "venueId": "kofu-conviction",
+    "venueName": "甲府CONVICTION",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-09-12",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-canova",
+    "venueId": "canova",
+    "venueName": "松江 canova",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-09-21",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-laughs",
+    "venueId": "laughs",
+    "venueName": "米子 laughs",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-09-22",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-crazymama-kingdom",
+    "venueId": "crazymama-kingdom",
+    "venueName": "岡山CRAZYMAMA KINGDOM",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-09-23",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-vanquish",
+    "venueId": "vanquish",
+    "venueName": "広島LIVE VANQUISH",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-09-25",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-rising-hall",
+    "venueId": "rising-hall",
+    "venueName": "周南RISING HALL",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-09-27",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-heavens-rock-vj2",
+    "venueId": "heavens-rock-vj2",
+    "venueName": "HEAVEN'S ROCK 宇都宮 VJ-2",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-03",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-palooza",
+    "venueId": "palooza",
+    "venueName": "柏PALOOZA",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-10",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-sapporo-chikamatsu",
+    "venueId": "sapporo-chikamatsu",
+    "venueName": "札幌近松",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-12",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-fad-yokohama",
+    "venueId": "fad-yokohama",
+    "venueName": "F.A.D YOKOHAMA",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-17",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-heavens-rock-vj3",
+    "venueId": "heavens-rock-vj3",
+    "venueName": "HEAVEN'S ROCK さいたま新都心VJ-3",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-18",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-bottom-line",
+    "venueId": "bottom-line",
+    "venueName": "名古屋ボトムライン",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-23",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-roots-mie",
+    "venueId": "roots-mie",
+    "venueName": "四日市CLUB ROOTS",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-24",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-roots-gifu",
+    "venueId": "roots-gifu",
+    "venueName": "岐阜CLUB ROOTS",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-25",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-mito-lighthouse",
+    "venueId": "mito-lighthouse",
+    "venueName": "水戸LIGHT HOUSE",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-30",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-roxy-shizuoka",
+    "venueId": "roxy-shizuoka",
+    "venueName": "LIVE ROXY SHIZUOKA",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-10-31",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-wakayama-shelter",
+    "venueId": "wakayama-shelter",
+    "venueName": "和歌山SHELTER",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-11-14",
+    "openTime": "16:30",
+    "startTime": "17:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-evans-castle",
+    "venueId": "evans-castle",
+    "venueName": "奈良EVANS CASTLE HALL",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-11-15",
+    "openTime": "15:30",
+    "startTime": "16:00",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-chicken-george",
+    "venueId": "chicken-george",
+    "venueName": "神戸チキンジョージ",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-11-17",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-kyoto-muse",
+    "venueId": "kyoto-muse",
+    "venueName": "KYOTO MUSE",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-11-18",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  },
+  {
+    "id": "aoen-2026-ustone",
+    "venueId": "ustone",
+    "venueName": "滋賀U★STONE",
+    "title": "aoen LIVE TOUR 2026 ～青のはじまり 47+1～",
+    "artists": [
+      {
+        "id": "aoen",
+        "name": "aoen"
+      }
+    ],
+    "eventDate": "2026-11-20",
+    "openTime": "18:00",
+    "startTime": "18:30",
+    "ticketInformation": "スタンディング。U-18料金あり。販売状況・注意事項は公式情報をご確認ください。",
+    "advanceTicketPrice": 7700,
+    "doorTicketPrice": null,
+    "drinkFeeRequired": true,
+    "officialUrl": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1"
+  }
+]

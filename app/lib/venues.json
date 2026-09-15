@@ -1,0 +1,2207 @@
+[
+  {
+    "id": "zepp-sapporo",
+    "name": "Zepp Sapporo",
+    "nameKana": "ゼップ 札幌",
+    "region": "HOKKAIDO",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "address": "北海道札幌市中央区南9条西4-4",
+    "postalCode": "064-0809",
+    "capacity": 2009,
+    "capacityNote": "スタンディング時の総収容人数（2階席等を含む）",
+    "drinkFee": 600,
+    "frontRowEstimate": null,
+    "floorDescription": "複数フロア構成。各階の配置は公式フロアガイドをご確認ください。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "地下鉄南北線「中島公園駅」より徒歩約1分 市電「山鼻9条駅」より徒歩約5分",
+    "officialWebsiteUrl": "https://www.zepp.co.jp/hall/sapporo/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.zepp.co.jp/hall/sapporo/",
+        "fields": "所在地・アクセス・スタンディング時の収容人数・フロア情報"
+      },
+      {
+        "label": "Zepp公式FAQ",
+        "url": "https://www.zepp.co.jp/faq/",
+        "fields": "ドリンク代（別途必要な公演の場合）"
+      }
+    ]
+  },
+  {
+    "id": "sapporo-chikamatsu",
+    "name": "札幌近松",
+    "nameKana": null,
+    "region": "HOKKAIDO",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "address": "北海道札幌市中央区南4条西14丁目1-32 札幌パームビル",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "地下鉄 西11丁目駅・西18丁目駅から徒歩10分",
+    "officialWebsiteUrl": "https://sapporo-chikamatsu.com/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://sapporo-chikamatsu.com/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "penny-lane24",
+    "name": "PENNY LANE24",
+    "nameKana": "ペニーレーン24",
+    "region": "HOKKAIDO",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "address": "北海道札幌市西区二十四軒4条5丁目5-21 W’Sビル",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "地下鉄東西線 琴似駅5番出口から徒歩3分",
+    "officialWebsiteUrl": "https://www.pl24.jp/info.html",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.pl24.jp/info.html",
+        "fields": "会場名・所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "aomori-quarter",
+    "name": "青森Quarter",
+    "nameKana": null,
+    "region": "TOHOKU",
+    "prefecture": "青森県",
+    "city": "青森市",
+    "address": "青森県青森市安方2-11-3",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "青森駅から徒歩10分",
+    "officialWebsiteUrl": "https://aomoriquarter.com/access",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://aomoriquarter.com/access",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "change-wave",
+    "name": "盛岡Club Change WAVE",
+    "nameKana": null,
+    "region": "TOHOKU",
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "address": "岩手県盛岡市大通り一丁目11-12 ヒグチビルB1",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "盛岡駅から徒歩15分",
+    "officialWebsiteUrl": "http://clubchange.com/map_access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://clubchange.com/map_access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "rensa",
+    "name": "仙台Rensa",
+    "nameKana": null,
+    "region": "TOHOKU",
+    "prefecture": "宮城県",
+    "city": "仙台市",
+    "address": "宮城県仙台市青葉区一番町4丁目9-18 TICビル7F",
+    "postalCode": null,
+    "capacity": 700,
+    "capacityNote": "オールスタンディング400〜700名",
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "地下鉄 勾当台公園駅 南1出口から徒歩2分",
+    "officialWebsiteUrl": "http://www.rensa.jp/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.rensa.jp/access/",
+        "fields": "確認できた所在地・アクセス"
+      },
+      {
+        "label": "公式施設仕様",
+        "url": "https://www.rensa.jp/rensadata/",
+        "fields": "キャパシティ"
+      }
+    ]
+  },
+  {
+    "id": "club-swindle",
+    "name": "秋田クラブスウィンドル",
+    "nameKana": null,
+    "region": "TOHOKU",
+    "prefecture": "秋田県",
+    "city": "秋田市",
+    "address": "未確認",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://clubswindle.jp/top.htm",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://clubswindle.jp/top.htm",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "showa-session",
+    "name": "山形ミュージック昭和Session",
+    "nameKana": null,
+    "region": "TOHOKU",
+    "prefecture": "山形県",
+    "city": "山形市",
+    "address": "未確認",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "山形駅から徒歩約20〜30分／東原4丁目バス停から徒歩約3分",
+    "officialWebsiteUrl": "https://www.musicshowa.co.jp/session/access",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://www.musicshowa.co.jp/session/access",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "hipshot-japan",
+    "name": "郡山hip shot Japan",
+    "nameKana": null,
+    "region": "TOHOKU",
+    "prefecture": "福島県",
+    "city": "郡山市",
+    "address": "福島県郡山市清水台1-6-16",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR郡山駅から徒歩8分",
+    "officialWebsiteUrl": "https://hip-shot.com/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://hip-shot.com/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "mito-lighthouse",
+    "name": "水戸LIGHT HOUSE",
+    "nameKana": null,
+    "region": "KANTO",
+    "prefecture": "茨城県",
+    "city": "水戸市",
+    "address": "茨城県水戸市南町3-3-28",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR水戸駅 北口から徒歩約20分",
+    "officialWebsiteUrl": "https://mitolighthouse.com/access.htm",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://mitolighthouse.com/access.htm",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "heavens-rock-vj2",
+    "name": "HEAVEN'S ROCK 宇都宮 VJ-2",
+    "nameKana": null,
+    "region": "KANTO",
+    "prefecture": "栃木県",
+    "city": "宇都宮市",
+    "address": "栃木県宇都宮市宮園町5-33 東武宇都宮西口ビルB1F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://www.heavensrock.com/utsunomiya/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://www.heavensrock.com/utsunomiya/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "jammers",
+    "name": "CLUB Jammers",
+    "nameKana": null,
+    "region": "KANTO",
+    "prefecture": "群馬県",
+    "city": "高崎市",
+    "address": "群馬県高崎市鞘町31-1",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR高崎駅から徒歩約13分",
+    "officialWebsiteUrl": "https://jammers.jp/map.php",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://jammers.jp/map.php",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "heavens-rock-vj3",
+    "name": "HEAVEN'S ROCK さいたま新都心VJ-3",
+    "nameKana": null,
+    "region": "KANTO",
+    "prefecture": "埼玉県",
+    "city": "さいたま市",
+    "address": "埼玉県さいたま市中央区上落合4-1-1",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://www.heavensrock.com/shintoshin/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://www.heavensrock.com/shintoshin/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "palooza",
+    "name": "柏PALOOZA",
+    "nameKana": null,
+    "region": "KANTO",
+    "prefecture": "千葉県",
+    "city": "柏市",
+    "address": "未確認",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.kashiwa-palooza.com/pc/index2.html",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.kashiwa-palooza.com/pc/index2.html",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "zepp-haneda",
+    "name": "Zepp Haneda (TOKYO)",
+    "nameKana": "ゼップ 羽田 (TOKYO)",
+    "region": "KANTO",
+    "prefecture": "東京都",
+    "city": "大田区",
+    "address": "東京都大田区羽田空港1-1-4 HANEDA INNOVATION CITY ZONE H",
+    "postalCode": "144-0041",
+    "capacity": 2925,
+    "capacityNote": "スタンディング時の総収容人数（2階席等を含む）",
+    "drinkFee": 600,
+    "frontRowEstimate": null,
+    "floorDescription": "複数フロア構成。各階の配置は公式フロアガイドをご確認ください。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "京急空港線、及び東京モノレール「天空橋」駅に隣接",
+    "officialWebsiteUrl": "https://www.zepp.co.jp/hall/haneda/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.zepp.co.jp/hall/haneda/",
+        "fields": "所在地・アクセス・スタンディング時の収容人数・フロア情報"
+      },
+      {
+        "label": "Zepp公式FAQ",
+        "url": "https://www.zepp.co.jp/faq/",
+        "fields": "ドリンク代（別途必要な公演の場合）"
+      }
+    ]
+  },
+  {
+    "id": "zepp-divercity",
+    "name": "Zepp DiverCity (TOKYO)",
+    "nameKana": "ゼップ ダイバーシティ (TOKYO)",
+    "region": "KANTO",
+    "prefecture": "東京都",
+    "city": "江東区",
+    "address": "東京都江東区青海 1-1-10 ダイバーシティ東京プラザ",
+    "postalCode": "135-0064",
+    "capacity": 2473,
+    "capacityNote": "スタンディング時の総収容人数（2階席等を含む）",
+    "drinkFee": 600,
+    "frontRowEstimate": null,
+    "floorDescription": "複数フロア構成。各階の配置は公式フロアガイドをご確認ください。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "東京臨海新交通臨海線 (ゆりかもめ)「台場駅」より徒歩10分 東京臨海高速鉄道りんかい線「東京テレポート駅」より徒歩10分",
+    "officialWebsiteUrl": "https://www.zepp.co.jp/hall/divercity/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.zepp.co.jp/hall/divercity/",
+        "fields": "所在地・アクセス・スタンディング時の収容人数・フロア情報"
+      },
+      {
+        "label": "Zepp公式FAQ",
+        "url": "https://www.zepp.co.jp/faq/",
+        "fields": "ドリンク代（別途必要な公演の場合）"
+      }
+    ]
+  },
+  {
+    "id": "zepp-shinjuku",
+    "name": "Zepp Shinjuku (TOKYO)",
+    "nameKana": "ゼップ 新宿 (TOKYO)",
+    "region": "KANTO",
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町一丁目29番1号 東急歌舞伎町タワーB1F - B4F",
+    "postalCode": "160-0021",
+    "capacity": 1500,
+    "capacityNote": "スタンディング時の総収容人数（2階席等を含む）",
+    "drinkFee": 600,
+    "frontRowEstimate": null,
+    "floorDescription": "複数フロア構成。各階の配置は公式フロアガイドをご確認ください。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "西武新宿線「西武新宿駅」から徒歩1分 JR各線・⼩⽥急線・京王線 「新宿駅」から徒歩7分 東京メトロ 丸ノ内線/副都⼼線 ・ 都営新宿線 「新宿三丁⽬駅」から徒歩8分",
+    "officialWebsiteUrl": "https://www.zepp.co.jp/hall/shinjuku/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.zepp.co.jp/hall/shinjuku/",
+        "fields": "所在地・アクセス・スタンディング時の収容人数・フロア情報"
+      },
+      {
+        "label": "Zepp公式FAQ",
+        "url": "https://www.zepp.co.jp/faq/",
+        "fields": "ドリンク代（別途必要な公演の場合）"
+      }
+    ]
+  },
+  {
+    "id": "spotify-o-east",
+    "name": "Spotify O-EAST",
+    "nameKana": "スポティファイ オーイースト",
+    "region": "KANTO",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-14-8 2F",
+    "postalCode": null,
+    "capacity": 1300,
+    "capacityNote": "公演のレイアウトにより変動します。",
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": "2Fにメインフロア、3Fにバルコニー階。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://shibuya-o.com/east/about/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://shibuya-o.com/east/about/",
+        "fields": "所在地・キャパシティ・フロア情報"
+      }
+    ]
+  },
+  {
+    "id": "spotify-o-west",
+    "name": "Spotify O-WEST",
+    "nameKana": "スポティファイ オーウェスト",
+    "region": "KANTO",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区円山町2-3 2F",
+    "postalCode": null,
+    "capacity": 600,
+    "capacityNote": "公演のレイアウトにより変動します。",
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": "メインフロアとバルコニー階を含む構成。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://shibuya-o.com/west/about/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://shibuya-o.com/west/about/",
+        "fields": "所在地・キャパシティ・フロア情報"
+      }
+    ]
+  },
+  {
+    "id": "spotify-o-crest",
+    "name": "Spotify O-Crest",
+    "nameKana": "スポティファイ オークレスト",
+    "region": "KANTO",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区道玄坂2-14-8 5F",
+    "postalCode": null,
+    "capacity": 250,
+    "capacityNote": "公演のレイアウトにより変動します。",
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": "5Fにライブフロア。階段での入場。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://shibuya-o.com/crest/about/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://shibuya-o.com/crest/about/",
+        "fields": "所在地・キャパシティ・フロア情報"
+      }
+    ]
+  },
+  {
+    "id": "spotify-o-nest",
+    "name": "Spotify O-nest",
+    "nameKana": "スポティファイ オーネスト",
+    "region": "KANTO",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区円山町2-3 6F",
+    "postalCode": null,
+    "capacity": 250,
+    "capacityNote": "公演のレイアウトにより変動します。",
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": "5Fにライブフロア、6Fにバー・ラウンジ。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://shibuya-o.com/nest/about/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://shibuya-o.com/nest/about/",
+        "fields": "所在地・キャパシティ・フロア情報"
+      }
+    ]
+  },
+  {
+    "id": "shimokitazawa-shelter",
+    "name": "下北沢SHELTER",
+    "nameKana": "しもきたざわシェルター",
+    "region": "KANTO",
+    "prefecture": "東京都",
+    "city": "",
+    "address": "未確認",
+    "postalCode": null,
+    "capacity": 250,
+    "capacityNote": "公演のレイアウトにより変動します。",
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://www.loft-prj.co.jp/SHELTER/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "運営会社の会場紹介",
+        "url": "https://www.loft-prj.co.jp/loftarchives/shelter/",
+        "fields": "会場名・キャパシティ"
+      }
+    ]
+  },
+  {
+    "id": "quattro-shibuya",
+    "name": "渋谷CLUB QUATTRO",
+    "nameKana": "渋谷クラブクアトロ",
+    "region": "KANTO",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町32-13 4F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "渋谷駅から徒歩7分",
+    "officialWebsiteUrl": "https://www.club-quattro.com/shibuya/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式ホール案内",
+        "url": "https://www.club-quattro.com/hallinfo/?place=shibuya",
+        "fields": "所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "zepp-yokohama",
+    "name": "KT Zepp Yokohama",
+    "nameKana": "KT ゼップ 横浜",
+    "region": "KANTO",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "神奈川県横浜市西区みなとみらい4-3-6",
+    "postalCode": "220-0012",
+    "capacity": 2146,
+    "capacityNote": "スタンディング時の総収容人数（2階席等を含む）",
+    "drinkFee": 600,
+    "frontRowEstimate": null,
+    "floorDescription": "複数フロア構成。各階の配置は公式フロアガイドをご確認ください。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "みなとみらい線「新高島」駅徒歩 2 分",
+    "officialWebsiteUrl": "https://www.zepp.co.jp/hall/yokohama/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.zepp.co.jp/hall/yokohama/",
+        "fields": "所在地・アクセス・スタンディング時の収容人数・フロア情報"
+      },
+      {
+        "label": "Zepp公式FAQ",
+        "url": "https://www.zepp.co.jp/faq/",
+        "fields": "ドリンク代（別途必要な公演の場合）"
+      }
+    ]
+  },
+  {
+    "id": "fad-yokohama",
+    "name": "F.A.D YOKOHAMA",
+    "nameKana": null,
+    "region": "KANTO",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "address": "未確認",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.fad-music.com/fad/?page_id=89",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.fad-music.com/fad/?page_id=89",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "golden-pigs-red",
+    "name": "新潟GOLDEN PIGS RED STAGE",
+    "nameKana": null,
+    "region": "CHUBU",
+    "prefecture": "新潟県",
+    "city": "新潟市",
+    "address": "新潟県新潟市中央区東堀通6番町1051-1 G.Eビル5F",
+    "postalCode": null,
+    "capacity": 300,
+    "capacityNote": "オールスタンディング300人",
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR新潟駅から徒歩約30分",
+    "officialWebsiteUrl": "http://www.goldenpigs.com/red/aboutus.html#access",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.goldenpigs.com/red/aboutus.html#access",
+        "fields": "確認できた所在地・アクセス・キャパシティ"
+      }
+    ]
+  },
+  {
+    "id": "mairo",
+    "name": "富山MAIRO",
+    "nameKana": null,
+    "region": "CHUBU",
+    "prefecture": "富山県",
+    "city": "富山市",
+    "address": "富山県富山市桜町2-1-1 アミューズビル2F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR富山駅から徒歩約5分",
+    "officialWebsiteUrl": "https://mairo.com/club/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://mairo.com/club/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "eight-hall",
+    "name": "金沢EIGHT HALL",
+    "nameKana": null,
+    "region": "CHUBU",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "未確認",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.eighthall.com/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.eighthall.com/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "fukui-chop",
+    "name": "福井CHOP",
+    "nameKana": null,
+    "region": "CHUBU",
+    "prefecture": "福井県",
+    "city": "福井市",
+    "address": "福井県福井市花堂東1-18-6",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.fukui-chop.com/NewFiles/main.html",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.fukui-chop.com/NewFiles/main.html",
+        "fields": "確認できた所在地・アクセス"
+      },
+      {
+        "label": "FOB企画 会場案内",
+        "url": "https://www.fobkikaku.co.jp/hall.php?hid=72",
+        "fields": "所在地"
+      }
+    ]
+  },
+  {
+    "id": "kofu-conviction",
+    "name": "甲府CONVICTION",
+    "nameKana": null,
+    "region": "CHUBU",
+    "prefecture": "山梨県",
+    "city": "甲府市",
+    "address": "山梨県甲府市朝気2丁目4-13 シンセリティビル",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR南甲府駅から徒歩10〜15分",
+    "officialWebsiteUrl": "https://kofuconviction.com/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://kofuconviction.com/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "nagano-junkbox",
+    "name": "長野CLUB JUNK BOX",
+    "nameKana": null,
+    "region": "CHUBU",
+    "prefecture": "長野県",
+    "city": "長野市",
+    "address": "長野県長野市南千歳1丁目16-1-6 BMB4F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.junkbox.co.jp/nagano/sp/info.html",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.junkbox.co.jp/nagano/sp/info.html",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "roots-gifu",
+    "name": "岐阜CLUB ROOTS",
+    "nameKana": null,
+    "region": "CHUBU",
+    "prefecture": "岐阜県",
+    "city": "岐南町",
+    "address": "岐阜県岐南町上印食8-50",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "名鉄 細畑駅または岐南駅から徒歩約20分",
+    "officialWebsiteUrl": "https://www.club-roots.com/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "公式アクセス",
+        "url": "https://www.club-roots.com/access/",
+        "fields": "所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "roxy-shizuoka",
+    "name": "LIVE ROXY SHIZUOKA",
+    "nameKana": null,
+    "region": "CHUBU",
+    "prefecture": "静岡県",
+    "city": "静岡市",
+    "address": "静岡県静岡市葵区黒金町28-1-2",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR静岡駅から徒歩3分",
+    "officialWebsiteUrl": "https://live-roxy.com/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://live-roxy.com/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "zepp-nagoya",
+    "name": "Zepp Nagoya",
+    "nameKana": "ゼップ 名古屋",
+    "region": "CHUBU",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市中村区平池町4-60-7",
+    "postalCode": "453-0872",
+    "capacity": 1864,
+    "capacityNote": "スタンディング時の総収容人数（2階席等を含む）",
+    "drinkFee": 600,
+    "frontRowEstimate": null,
+    "floorDescription": "複数フロア構成。各階の配置は公式フロアガイドをご確認ください。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "「名古屋駅」より徒歩12～15分 あおなみ線「ささしまライブ駅」より徒歩約5分",
+    "officialWebsiteUrl": "https://www.zepp.co.jp/hall/nagoya/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.zepp.co.jp/hall/nagoya/",
+        "fields": "所在地・アクセス・スタンディング時の収容人数・フロア情報"
+      },
+      {
+        "label": "Zepp公式FAQ",
+        "url": "https://www.zepp.co.jp/faq/",
+        "fields": "ドリンク代（別途必要な公演の場合）"
+      }
+    ]
+  },
+  {
+    "id": "bottom-line",
+    "name": "名古屋ボトムライン",
+    "nameKana": null,
+    "region": "CHUBU",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市千種区今池4-7-11",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://www.bottomline.co.jp/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://www.bottomline.co.jp/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "quattro-nagoya",
+    "name": "名古屋CLUB QUATTRO",
+    "nameKana": "名古屋クラブクアトロ",
+    "region": "CHUBU",
+    "prefecture": "愛知県",
+    "city": "名古屋市",
+    "address": "愛知県名古屋市中区栄3-29-1 名古屋パルコ東館8F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "地下鉄 矢場町駅下車すぐ",
+    "officialWebsiteUrl": "https://www.club-quattro.com/nagoya/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式ホール案内",
+        "url": "https://www.club-quattro.com/hallinfo/?place=nagoya",
+        "fields": "所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "roots-mie",
+    "name": "四日市CLUB ROOTS",
+    "nameKana": null,
+    "region": "KANSAI",
+    "prefecture": "三重県",
+    "city": "四日市市",
+    "address": "三重県四日市市西伊倉町2-3",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "近鉄 中川原駅から徒歩10分／近鉄四日市駅から徒歩20分",
+    "officialWebsiteUrl": "https://club-roots-mie.com/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://club-roots-mie.com/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "ustone",
+    "name": "滋賀U★STONE",
+    "nameKana": null,
+    "region": "KANSAI",
+    "prefecture": "滋賀県",
+    "city": "大津市",
+    "address": "滋賀県大津市粟津町11-12",
+    "postalCode": null,
+    "capacity": 400,
+    "capacityNote": "公式案内：100〜400人の可動式",
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR石山駅・京阪石山駅から徒歩1分",
+    "officialWebsiteUrl": "https://www.ustone.space/about.php",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://www.ustone.space/about.php",
+        "fields": "確認できた所在地・アクセス・キャパシティ"
+      }
+    ]
+  },
+  {
+    "id": "kyoto-muse",
+    "name": "KYOTO MUSE",
+    "nameKana": null,
+    "region": "KANSAI",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "address": "京都府京都市下京区四条通柳馬場西入 ミューズ389京都",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "烏丸駅・四条駅14番出口から徒歩約30秒",
+    "officialWebsiteUrl": "http://muse-live.com/kyoto/access.html",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://muse-live.com/kyoto/access.html",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "zepp-osakabayside",
+    "name": "Zepp Osaka Bayside",
+    "nameKana": "ゼップ 大阪ベイサイド",
+    "region": "KANSAI",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市此花区桜島1-1-61",
+    "postalCode": "554-0031",
+    "capacity": 2801,
+    "capacityNote": "スタンディング時の総収容人数（2階席等を含む）",
+    "drinkFee": 600,
+    "frontRowEstimate": null,
+    "floorDescription": "複数フロア構成。各階の配置は公式フロアガイドをご確認ください。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR ゆめ咲線「桜島」駅より徒歩4分",
+    "officialWebsiteUrl": "https://www.zepp.co.jp/hall/osakabayside/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.zepp.co.jp/hall/osakabayside/",
+        "fields": "所在地・アクセス・スタンディング時の収容人数・フロア情報"
+      },
+      {
+        "label": "Zepp公式FAQ",
+        "url": "https://www.zepp.co.jp/faq/",
+        "fields": "ドリンク代（別途必要な公演の場合）"
+      }
+    ]
+  },
+  {
+    "id": "zepp-namba",
+    "name": "Zepp Namba (OSAKA)",
+    "nameKana": "ゼップ なんば (OSAKA)",
+    "region": "KANSAI",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市浪速区敷津東 2-1-39",
+    "postalCode": "556-0012",
+    "capacity": 2513,
+    "capacityNote": "スタンディング時の総収容人数（2階席等を含む）",
+    "drinkFee": 600,
+    "frontRowEstimate": null,
+    "floorDescription": "複数フロア構成。各階の配置は公式フロアガイドをご確認ください。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "南海電鉄、地下鉄御堂筋線／四ツ橋線「なんば駅」より徒歩12分 地下鉄堺筋線「恵美須町駅」1-B番出入口より徒歩10分 地下鉄御堂筋線／四ツ橋線「大国町駅」1番出入口より徒歩7分",
+    "officialWebsiteUrl": "https://www.zepp.co.jp/hall/namba/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.zepp.co.jp/hall/namba/",
+        "fields": "所在地・アクセス・スタンディング時の収容人数・フロア情報"
+      },
+      {
+        "label": "Zepp公式FAQ",
+        "url": "https://www.zepp.co.jp/faq/",
+        "fields": "ドリンク代（別途必要な公演の場合）"
+      }
+    ]
+  },
+  {
+    "id": "quattro-umeda",
+    "name": "梅田CLUB QUATTRO",
+    "nameKana": "梅田クラブクアトロ",
+    "region": "KANSAI",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "大阪府大阪市北区太融寺町8-17 プラザ梅田10F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "大阪駅・梅田駅から徒歩7分",
+    "officialWebsiteUrl": "https://www.club-quattro.com/umeda/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式ホール案内",
+        "url": "https://www.club-quattro.com/hallinfo/?place=umeda",
+        "fields": "所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "chicken-george",
+    "name": "神戸チキンジョージ",
+    "nameKana": null,
+    "region": "KANSAI",
+    "prefecture": "兵庫県",
+    "city": "神戸市",
+    "address": "兵庫県神戸市中央区下山手通2-17-2 B1F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "三ノ宮・神戸三宮駅から徒歩約10分",
+    "officialWebsiteUrl": "https://www.chicken-george.co.jp/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://www.chicken-george.co.jp/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "evans-castle",
+    "name": "奈良EVANS CASTLE HALL",
+    "nameKana": null,
+    "region": "KANSAI",
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "address": "奈良県奈良市三条町553",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://evans-kingdom.com/hall/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://evans-kingdom.com/hall/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "wakayama-shelter",
+    "name": "和歌山SHELTER",
+    "nameKana": null,
+    "region": "KANSAI",
+    "prefecture": "和歌山県",
+    "city": "和歌山市",
+    "address": "和歌山県和歌山市ふじと台104 エスタシオン西棟101号",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "南海 和歌山大学前駅直結",
+    "officialWebsiteUrl": "https://wakayama-shelter.com/access.html",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://wakayama-shelter.com/access.html",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "laughs",
+    "name": "米子 laughs",
+    "nameKana": null,
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "鳥取県",
+    "city": "米子市",
+    "address": "鳥取県米子市道笑町1丁目3 BMEビル1F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://aztic.net/laughs/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://aztic.net/laughs/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "canova",
+    "name": "松江 canova",
+    "nameKana": null,
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "島根県",
+    "city": "松江市",
+    "address": "島根県松江市嫁島町13番地25号",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://aztic.net/canova/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://aztic.net/canova/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "crazymama-kingdom",
+    "name": "岡山CRAZYMAMA KINGDOM",
+    "nameKana": null,
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "岡山県",
+    "city": "岡山市",
+    "address": "岡山県岡山市北区中央町6-22 中央町ヒルズ4F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR岡山駅から徒歩約20分",
+    "officialWebsiteUrl": "https://banquetunion.com/kingdom/access",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://banquetunion.com/kingdom/access",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "vanquish",
+    "name": "広島LIVE VANQUISH",
+    "nameKana": null,
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "address": "広島県広島市中区薬研堀8-6 メイセイパーク1F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://live-vanquish.com/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://live-vanquish.com/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "quattro-hiroshima",
+    "name": "広島CLUB QUATTRO",
+    "nameKana": "広島クラブクアトロ",
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "address": "広島県広島市中区本通10-1 広島パルコ本館10F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "広島電鉄 八丁堀駅から徒歩5分",
+    "officialWebsiteUrl": "https://www.club-quattro.com/hiroshima/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式ホール案内",
+        "url": "https://www.club-quattro.com/hallinfo/?place=hiroshima",
+        "fields": "所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "rising-hall",
+    "name": "周南RISING HALL",
+    "nameKana": null,
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "山口県",
+    "city": "周南市",
+    "address": "山口県周南市銀南街49番地4F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR徳山駅 みゆき口から徒歩約5分",
+    "officialWebsiteUrl": "https://risinghallshunan.wixsite.com/rising-hall/access",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 1,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://risinghallshunan.wixsite.com/rising-hall/access",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "grindhouse",
+    "name": "club GRINDHOUSE",
+    "nameKana": null,
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "徳島県",
+    "city": "徳島市",
+    "address": "徳島県徳島市秋田町2-23 ジョイフルビル3F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "JR阿波富田駅から徒歩約7〜8分",
+    "officialWebsiteUrl": "https://c-gh.jp/#access",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://c-gh.jp/#access",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "takamatsu-monster",
+    "name": "高松MONSTER",
+    "nameKana": null,
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "香川県",
+    "city": "高松市",
+    "address": "香川県高松市瓦町2-6-14 瓦町スクエアビルドB1F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.monster.cx/access_map",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.monster.cx/access_map",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "wstudio-red",
+    "name": "松山W studio RED",
+    "nameKana": null,
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "愛媛県",
+    "city": "松山市",
+    "address": "愛媛県松山市湊町4-10-8 BE-FLATビルB1F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "伊予鉄道 松山市駅から徒歩3分",
+    "officialWebsiteUrl": "http://red.double-ustudio.com/map/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://red.double-ustudio.com/map/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "caravan-sary",
+    "name": "CARAVAN SARY",
+    "nameKana": null,
+    "region": "CHUGOKU_SHIKOKU",
+    "prefecture": "高知県",
+    "city": "",
+    "address": "未確認",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://www.caravansary.jp/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://www.caravansary.jp/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "zepp-fukuoka",
+    "name": "Zepp Fukuoka",
+    "nameKana": "ゼップ 福岡",
+    "region": "KYUSHU_OKINAWA",
+    "prefecture": "福岡県",
+    "city": "福岡市",
+    "address": "福岡県福岡市中央区地行浜2-2-1",
+    "postalCode": "810-8639",
+    "capacity": 1526,
+    "capacityNote": "スタンディング時の総収容人数（2階席等を含む）",
+    "drinkFee": 600,
+    "frontRowEstimate": null,
+    "floorDescription": "複数フロア構成。各階の配置は公式フロアガイドをご確認ください。",
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "地下鉄「唐人町駅」より徒歩約15分 西鉄バス「九州医療センター」または「ヤフオクドーム前」すぐ",
+    "officialWebsiteUrl": "https://www.zepp.co.jp/hall/fukuoka/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "公式会場情報",
+        "url": "https://www.zepp.co.jp/hall/fukuoka/",
+        "fields": "所在地・アクセス・スタンディング時の収容人数・フロア情報"
+      },
+      {
+        "label": "Zepp公式FAQ",
+        "url": "https://www.zepp.co.jp/faq/",
+        "fields": "ドリンク代（別途必要な公演の場合）"
+      }
+    ]
+  },
+  {
+    "id": "drum-logos",
+    "name": "DRUM LOGOS",
+    "nameKana": null,
+    "region": "KYUSHU_OKINAWA",
+    "prefecture": "福岡県",
+    "city": "福岡市",
+    "address": "福岡県福岡市中央区舞鶴1-8-25",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.live-drum.com/img/map/logos.htm",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.live-drum.com/img/map/logos.htm",
+        "fields": "確認できた所在地・アクセス"
+      },
+      {
+        "label": "DRUM運営会社の会場一覧",
+        "url": "http://www.live-drum.com/be7/map.shtml",
+        "fields": "所在地"
+      }
+    ]
+  },
+  {
+    "id": "saga-geils",
+    "name": "佐賀GEILS",
+    "nameKana": null,
+    "region": "KYUSHU_OKINAWA",
+    "prefecture": "佐賀県",
+    "city": "佐賀市",
+    "address": "未確認",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://sound-spirits.com/geils/information/index.htm",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://sound-spirits.com/geils/information/index.htm",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "drum-be7",
+    "name": "DRUM Be-7",
+    "nameKana": null,
+    "region": "KYUSHU_OKINAWA",
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "address": "長崎県長崎市栄町5-5 FM長崎ビルB1F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.live-drum.com/be7/map.shtml",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.live-drum.com/be7/map.shtml",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "kumamoto-b9-v1",
+    "name": "熊本B.9 V1",
+    "nameKana": null,
+    "region": "KYUSHU_OKINAWA",
+    "prefecture": "熊本県",
+    "city": "熊本市",
+    "address": "熊本県熊本市中央区城東町5-13",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.live-drum.com/be9/index1.shtml",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "主催者の会場案内",
+        "url": "https://land-f.jp/venue/b9-v1/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "drum-be0",
+    "name": "DRUM Be-0",
+    "nameKana": null,
+    "region": "KYUSHU_OKINAWA",
+    "prefecture": "大分県",
+    "city": "大分市",
+    "address": "大分県大分市金池町2-13-20",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://www.live-drum.com/be0/map.shtml",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://www.live-drum.com/be0/map.shtml",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "lazarus",
+    "name": "LAZARUS",
+    "nameKana": null,
+    "region": "KYUSHU_OKINAWA",
+    "prefecture": "宮崎県",
+    "city": "宮崎市",
+    "address": "宮崎県宮崎市橘通東3-1-7",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "https://lazarus-miyazaki.com/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://lazarus-miyazaki.com/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "caparvo",
+    "name": "鹿児島CAPARVOホール",
+    "nameKana": null,
+    "region": "KYUSHU_OKINAWA",
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "address": "鹿児島県鹿児島市東千石町3-41 キャパルボビル8F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": "市電 高見馬場から徒歩2〜3分",
+    "officialWebsiteUrl": "https://www.kagoshima-sr.jp/access/",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "https://www.kagoshima-sr.jp/access/",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  },
+  {
+    "id": "output",
+    "name": "Output",
+    "nameKana": null,
+    "region": "KYUSHU_OKINAWA",
+    "prefecture": "沖縄県",
+    "city": "那覇市",
+    "address": "沖縄県那覇市牧志2-3-22 高良産業ビル2F",
+    "postalCode": null,
+    "capacity": null,
+    "capacityNote": null,
+    "drinkFee": null,
+    "frontRowEstimate": null,
+    "floorDescription": null,
+    "pillarInformation": null,
+    "floorMapImageUrl": null,
+    "accessInformation": null,
+    "officialWebsiteUrl": "http://outputop.com/access.html",
+    "latitude": null,
+    "longitude": null,
+    "upcomingLiveEventCount": 0,
+    "checkedAt": "2026-09-13",
+    "sources": [
+      {
+        "label": "aoen 公式ツアー情報",
+        "url": "https://spot-jp.weverse.io/aoen/aonohajimari47plus1",
+        "fields": "会場名・都道府県・公演情報"
+      },
+      {
+        "label": "会場アクセス・公式案内",
+        "url": "http://outputop.com/access.html",
+        "fields": "確認できた所在地・アクセス"
+      }
+    ]
+  }
+]
