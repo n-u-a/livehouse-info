@@ -4,7 +4,11 @@ import { AppShell } from "../../components/AppShell";
 import { LiveEventCard } from "../../components/LiveEventCard";
 import { VenueFavorite } from "../../components/VenueFavorite";
 import { SearchBackLink } from "../../components/SearchBackLink";
-import { REGION_LABELS, formatNumber, getEventsByVenue, getVenue, isPastEvent } from "../../lib/livehouse-data";
+import { REGION_LABELS, formatNumber, getEventsByVenue, getVenue, isPastEvent, venues } from "../../lib/livehouse-data";
+
+export function generateStaticParams() {
+ return venues.map((venue) => ({ venueId: venue.id }));
+}
 export default async function VenuePage({ params }: { params: Promise<{venueId: string}> }) {
  const { venueId } = await params; const venue = getVenue(venueId); if (!venue) notFound();
  const events = getEventsByVenue(venue.id); const upcoming = events.filter(e=>!isPastEvent(e.eventDate)); const past = events.filter(e=>isPastEvent(e.eventDate));

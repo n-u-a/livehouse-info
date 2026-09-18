@@ -2,11 +2,15 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AppShell } from "../../components/AppShell";
 import { FavoriteButton } from "../../components/FavoriteButton";
-import { formatDate, formatNumber, formatTime, getLiveEvent, getVenue, isPastEvent } from "../../lib/livehouse-data";
+import { formatDate, formatNumber, formatTime, getLiveEvent, getVenue, isPastEvent, liveEvents } from "../../lib/livehouse-data";
 
 type LiveEventPageProps = {
   params: Promise<{ liveEventId: string }>;
 };
+
+export function generateStaticParams() {
+  return liveEvents.map((event) => ({ liveEventId: event.id }));
+}
 
 export default async function LiveEventPage({ params }: LiveEventPageProps) {
   const { liveEventId } = await params;

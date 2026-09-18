@@ -49,6 +49,8 @@ export default defineConfig(async () => {
       });
 
   return {
+    base:
+      process.env.GITHUB_PAGES === "true" ? "/livehouse-info/" : undefined,
     server: isCodexSeatbeltSandbox
       ? { watch: { useFsEvents: false, usePolling: true } }
       : undefined,

@@ -63,3 +63,9 @@ GitHubのlivehouse-infoリポジトリのmainブランチを、既存の「ラ�
 ```
 
 秘密情報はリポジトリへコミットせず、必要になった場合はSitesの環境変数・シークレットで管理します。
+
+## GitHub Pages
+
+`main`ブランチへpushすると、GitHub Actionsが静的サイトを生成してGitHub Pagesへ公開します。
+
+公開URL：<https://n-u-a.github.io/livehouse-info/>
